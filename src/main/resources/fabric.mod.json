@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
 	"id": "kineticresistance",
-	"version": "${version}",
+	"version": "1.0",
 	"name": "Kinetic Resistance",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A Minecraft mod that adds a protection enchant agaist maces, running into walls with an elytra, anvils, falling stalactites, ect",
 	"authors": [
 		"zwachinabottle"
 	],
 	"contact": {
 		"homepage": "https://zwachinabottle.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Zwachinabottle/Kinetic-Resistance-1.21"
 	},
 	"license": "MIT",
 	"environment": "*",
